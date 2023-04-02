@@ -31,10 +31,34 @@ Prachy
       * V civilizaci si lze zaplatit trenéra na získání nových schopností
     * Na obdržené mapě lokace vyznačíte svůj pohyb
       * Za každou hru obdržíte při vyhlášení specifikovaný počet pohybů
+    * V obálce vyznačíte, které předměty a svitky používáte
     * Obálku odevzdáte Óňovi nebo Mičovi
+
+## Schopnosti a předměty
+
+* Schopnosti
+  * Horolezectví
+    * Max. úroveň: 11
+    * Cena za úroveň: u * 2000
+  * Plavání
+    * Max. úroveň: 11
+    * Cena za úroveň: u * 2000
+  * Boj
+    * Max. úroveň: 11
+    * Cena za úroveň: u * 2000
+  * Magie
+    * Max. úroveň: 5
+    * Cena za úroveň: u * 2000
+  * Hospodářství
+    * Max. úroveň: 5
+    * Cena za úroveň: u * 5000
+  * Logistika
+    * Max. úroveň: 3
+    * Cena za úroveň: u * 11000
+* Předměty
+  * Trvalé
+  * Svitky
 
 ## Stav počátku
 
 * Peníze: 4500
-* Počet lidí: 1
-* Budovy: Sýpka
