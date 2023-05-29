@@ -15,6 +15,10 @@ Prachy
 * 4000
 * 2000
 
+Počet pohybů za hru
+
+* 4
+
 ## Průběh vyhodnocení
 
 * Shrnutí předchozích tahů
@@ -38,21 +42,27 @@ Prachy
 
 * Schopnosti
   * Horolezectví
+    * Můžeš lézt přes hory odpovídající úrovni tvého horolezectví nebo nižší
     * Max. úroveň: 11
     * Cena za úroveň: u * 2000
   * Plavání
+    * Můžeš plavat přes vody odpovídající úrovni tvého plavání nebo nižší
     * Max. úroveň: 11
     * Cena za úroveň: u * 2000
   * Boj
+    * Můžeš přemoci protivníky odpovídající úrovni tvého boje nebo nižší
     * Max. úroveň: 11
     * Cena za úroveň: u * 2000
   * Magie
+    * Můžeš používat svitky odpovídající úrovní tvé magie nebo nižší
     * Max. úroveň: 5
     * Cena za úroveň: u * 2000
   * Hospodářství
+    * Za každou hodnocenou hru ti generuje x tisíců zlaťáků, kde x je rovno úrovni tvého hospodářství
     * Max. úroveň: 5
     * Cena za úroveň: u * 5000
   * Logistika
+    * Za každou hodnocenou hru ti generuje x bodů pohybu, kde x je rovno úrovni tvé logistiky
     * Max. úroveň: 3
     * Cena za úroveň: u * 11000
 * Předměty
