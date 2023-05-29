@@ -67,6 +67,7 @@ Počet pohybů za hru
     * Cena za úroveň: u * 11000
 * Předměty
   * Trvalé
+    * Nemůžeš si jednu schopnost vylepšovat v jeden moment dvěma předměty
   * Svitky
 
 ## Stav počátku
