@@ -71,6 +71,7 @@ Počet pohybů za hru
   * Svitky
     * Svitek je na jedno použití a jeho účinek platí do konce kola
     * Nemůžeš použít za jedno kolo dva svitky ovlivňující tutéž schopnost
+    * Nemůžeš použít za jedno kolo dva svitky se stejným názvem
 
 ## Stav počátku
 
