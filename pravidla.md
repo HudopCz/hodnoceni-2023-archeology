@@ -56,7 +56,7 @@ Počet pohybů za hru
   * Magie
     * Můžeš používat svitky odpovídající úrovní tvé magie nebo nižší
     * Max. úroveň: 5
-    * Cena za úroveň: u * 2000
+    * Cena za úroveň: u * 3000
   * Hospodářství
     * Za každou hodnocenou hru ti generuje x tisíců zlaťáků, kde x je rovno úrovni tvého hospodářství
     * Max. úroveň: 5
