@@ -69,6 +69,8 @@ Počet pohybů za hru
   * Trvalé
     * Nemůžeš si jednu schopnost vylepšovat v jeden moment dvěma předměty
   * Svitky
+    * Svitek je na jedno použití a jeho účinek platí do konce kola
+    * Nemůžeš použít za jedno kolo dva svitky ovlivňující tutéž schopnost
 
 ## Stav počátku
 
