@@ -1,0 +1,37 @@
+\documentclass{article}
+\usepackage{subfigure}
+\usepackage{lipsum}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage{lscape}
+\usepackage{pdfpages}
+\renewcommand{\baselinestretch}{0} 
+
+\usepackage[pass]{geometry}
+\newgeometry{margin=0pt}
+\usepackage[font=tiny,skip=0pt]{caption}
+\pagenumbering{gobble}
+
+\extrafloats{1}
+
+\begin{document}
+\begin{landscape}
+
+% now one copy
+
+% \newcount\copy
+% \copy=1
+% \loop
+
+\input{layout_objects}
+
+\input{layout_spells}
+
+% \advance \copy -1
+% \ifnum \copy>0
+% \repeat
+
+% end of one copy
+
+\end{landscape}
+\end{document}
