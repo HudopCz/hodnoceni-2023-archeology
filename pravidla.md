@@ -56,15 +56,15 @@ Počet pohybů za hru
   * Magie
     * Můžeš používat svitky odpovídající úrovní tvé magie nebo nižší
     * Max. úroveň: 5
-    * Cena za úroveň: u * 3000
+    * Cena za úroveň: u * 5000
   * Hospodářství
     * Za každou hodnocenou hru ti generuje x tisíců zlaťáků, kde x je rovno úrovni tvého hospodářství
     * Max. úroveň: 5
-    * Cena za úroveň: u * 5000
+    * Cena za úroveň: 8000
   * Logistika
     * Za každou hodnocenou hru ti generuje x bodů pohybu, kde x je rovno úrovni tvé logistiky
     * Max. úroveň: 3
-    * Cena za úroveň: u * 11000
+    * Cena za úroveň: u * 9000
 * Předměty
   * Trvalé
     * Nemůžeš si jednu schopnost vylepšovat v jeden moment dvěma předměty
